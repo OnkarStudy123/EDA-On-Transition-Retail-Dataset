@@ -1,0 +1,1 @@
+Perform Exploratory Data Analysis on the Reatil dataset to understand its characteristics and relationships between features. Use libraries like Pandas, Matplotlib, and Seaborn to visualize patterns, distributions, and relationships in the Transtition Retail dataset. Gain proficiency in data visualization and basic data manipulation using Pandas.
